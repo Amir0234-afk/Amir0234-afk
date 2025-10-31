@@ -23,7 +23,7 @@ I am a cybersecurity student with a keen interest in blockchains and their appli
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** [https://www.linkedin.com/in/amirali-hosseini-abrishami/]  
+- **LinkedIn:** https://www.linkedin.com/in/amirali-hosseini-abrishami/
 - Feel free to reach out if you're interested in collaborations or discussions about game development, cybersecurity, or data science!
 
 Let’s create, explore, and learn together! 🚀
