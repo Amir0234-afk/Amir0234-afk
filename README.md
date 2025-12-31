@@ -29,7 +29,7 @@
 ## Stack 
 - **Languages:** Python, C++, TypeScript, SQL, Bash
 - **ML:** TensorFlow/Keras, Hugging Face Transformers
-- **Infra:** Docker, GitHub Actions, PostgreSQL
+- **Infra / DevOps:** Docker, GitHub Actions (CI), PostgreSQL
 - **Security/RE (tools I use):** (add the exact tools you’re comfortable being judged on)
 
 <p align="center">
@@ -40,8 +40,9 @@
 ## Samples (selected evidence)
 
 ### Sentiment Analysis — Transformers (NLP)
-![Training Metrics](assets/Sentimental%20Analysis.png)
-
+<p align="center">
+  <img src="assets/nlp-training-metrics.png" width="720" alt="Sentiment training metrics">
+</p>
 - **Accuracy:** 93.0% | **F1:** 0.93 | **Eval set:** 872 samples  
 - Common failure modes: sarcasm/irony, stylistic negativity, mixed sentiment  
 - Errors often show polarity inversion; low-confidence predictions correlate with ambiguity
@@ -49,7 +50,9 @@
 ---
 
 ### License Plate Segmentation — U-Net (CV)
-![Segmentation Output](assets/U-net.png)
+<p align="center">
+  <img src="assets/cv-unet-segmentation.png" width="720" alt="U-Net segmentation output">
+</p>
 
 - **Final metrics (50 epochs):**  
   Accuracy 0.9982 · Loss 0.0039 · Val Accuracy 0.9974 · Val Loss 0.0087  
@@ -59,7 +62,9 @@
 ---
 
 ### Handwritten Character Classification — CNN
-![Confusion Matrix](assets/Small%20Filters%20(16,32,32)_cm.png)
+<p align="center">
+  <img src="assets/cnn-confusion-matrix.png" width="720" alt="CNN confusion matrix">
+</p>
 
 - **Test Accuracy:** 0.7835  
 - **F1:** Micro 0.7835 · Macro 0.7832 · Weighted 0.7832  
