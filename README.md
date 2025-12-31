@@ -47,7 +47,7 @@
 
 ## Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,sql,bash,linux,git,githubactions,docker,postgres,tensorflow&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,postgres,bash,linux,git,githubactions,docker,tensorflow&perline=11" />
 </p>
 
 ## GitHub signals
