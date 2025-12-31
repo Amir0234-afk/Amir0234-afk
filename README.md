@@ -17,34 +17,6 @@
 - Security: small utilities + crypto-adjacent scripts
 - Game dev: prototypes + tooling, packaged demos and short postmortems
 
-## Featured (recommended pins)
-<p align="center">
-  <a href="https://github.com/Amir0234-afk/sentiment-analysis-hf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir0234-afk&repo=sentiment-analysis-hf&theme=transparent" />
-  </a>
-  <a href="https://github.com/Amir0234-afk/license-plate-segmentation-unet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir0234-afk&repo=license-plate-segmentation-unet&theme=transparent" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Amir0234-afk/CNN-Experiments-on-NIST-SD19-Handwritten-Characters">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir0234-afk&repo=CNN-Experiments-on-NIST-SD19-Handwritten-Characters&theme=transparent" />
-  </a>
-  <a href="https://github.com/Amir0234-afk/housing-price-prediction-DNN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir0234-afk&repo=housing-price-prediction-DNN&theme=transparent" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Amir0234-afk/XOR-Decryption-Tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir0234-afk&repo=XOR-Decryption-Tool&theme=transparent" />
-  </a>
-  <a href="https://github.com/Amir0234-afk/Base-FlappyBirdClone-UnrealEngine-5.1.1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir0234-afk&repo=Base-FlappyBirdClone-UnrealEngine-5.1.1&theme=transparent" />
-  </a>
-</p>
-
 ## Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,postgres,bash,linux,git,githubactions,docker,tensorflow&perline=11" />
