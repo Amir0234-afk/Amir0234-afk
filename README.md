@@ -39,10 +39,12 @@
 
 ## Samples (selected evidence)
 > Selected qualitative and quantitative artifacts from pinned projects. Full analysis in individual repositories.
+
 ### Sentiment Analysis — Transformers (NLP)
 <p align="center">
   <img src="assets/nlp-training-metrics.png" width="720" alt="Sentiment training metrics">
 </p>
+
 - **Accuracy:** 93.0% | **F1:** 0.93 | **Eval set:** 872 samples  
 - Common failure modes: sarcasm/irony, stylistic negativity, mixed sentiment  
 - Errors often show polarity inversion; low-confidence predictions correlate with ambiguity
