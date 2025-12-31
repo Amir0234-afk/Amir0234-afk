@@ -20,29 +20,51 @@
 - Security: small utilities + crypto-adjacent scripts
 - Game dev: prototypes + tooling, packaged demos and short postmortems
 
-## Pinned projects (start here)
+## Pinned projects
 - **sentiment-analysis-hf** — BERT/Transformers sentiment analysis (IMDB, SST-2): train/eval/batch predict
 - **license-plate-segmentation-unet** — U-Net 3-class segmentation (TF/Keras)
 - **CNN-Experiments-on-NIST-SD19-Handwritten-Characters** — modular CNN pipeline (NIST SD19): preprocess → train → evaluate
 - **Base-FlappyBirdClone-UnrealEngine-5.1.1** — Unreal Engine Blueprint prototype base
 
-> Tip: keep your GitHub “Pinned repositories” aligned with this list (4–6 strong projects). :contentReference[oaicite:2]{index=2}
-
-## Stack (robust text)
+## Stack 
 - **Languages:** Python, C++, TypeScript, SQL, Bash
 - **ML:** TensorFlow/Keras, Hugging Face Transformers
 - **Infra:** Docker, GitHub Actions, PostgreSQL
 - **Security/RE (tools I use):** (add the exact tools you’re comfortable being judged on)
 
-<!-- Optional: icons (external). If skillicons ever fails, delete this block and keep the text above. -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,postgres,bash,linux,git,githubactions,docker,tensorflow&perline=11" />
 </p>
 
-## Proof (recommended next)
-Add one screenshot/GIF per pinned repo under `assets/` and link it here:
-- Example: `![demo](assets/license-plate-unet.png)`
+> Selected qualitative and quantitative artifacts from pinned projects. Full analysis in individual repositories.
+## Samples (selected evidence)
 
-(Images can be stored in the repo and referenced by relative path.) :contentReference[oaicite:3]{index=3}
+### Sentiment Analysis — Transformers (NLP)
+![Training Metrics](assets/Sentimental%20Analysis.png)
+
+- **Accuracy:** 93.0% | **F1:** 0.93 | **Eval set:** 872 samples  
+- Common failure modes: sarcasm/irony, stylistic negativity, mixed sentiment  
+- Errors often show polarity inversion; low-confidence predictions correlate with ambiguity
+
+---
+
+### License Plate Segmentation — U-Net (CV)
+![Segmentation Output](assets/U-net.png)
+
+- **Final metrics (50 epochs):**  
+  Accuracy 0.9982 · Loss 0.0039 · Val Accuracy 0.9974 · Val Loss 0.0087  
+- Qualitative mask overlays used for validation  
+- License plates intentionally blurred for privacy
+
+---
+
+### Handwritten Character Classification — CNN
+![Confusion Matrix](assets/Small%20Filters%20(16,32,32)_cm.png)
+
+- **Test Accuracy:** 0.7835  
+- **F1:** Micro 0.7835 · Macro 0.7832 · Weighted 0.7832  
+- Confusion matrix highlights class-level performance variance
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient)
