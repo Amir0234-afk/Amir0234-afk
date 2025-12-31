@@ -30,15 +30,15 @@
 - **Languages:** Python, C++, TypeScript, SQL, Bash
 - **ML:** TensorFlow/Keras, Hugging Face Transformers
 - **Infra / DevOps:** Docker, GitHub Actions (CI), PostgreSQL
-- **Security/RE (tools I use):** (add the exact tools you’re comfortable being judged on)
+- **Security/RE (tools I use):** WireShark, Ghidra
+- **Game Development:** Unreal, Godot
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,postgres,bash,linux,git,githubactions,docker,tensorflow&perline=11" />
 </p>
 
-> Selected qualitative and quantitative artifacts from pinned projects. Full analysis in individual repositories.
 ## Samples (selected evidence)
-
+> Selected qualitative and quantitative artifacts from pinned projects. Full analysis in individual repositories.
 ### Sentiment Analysis — Transformers (NLP)
 <p align="center">
   <img src="assets/nlp-training-metrics.png" width="720" alt="Sentiment training metrics">
