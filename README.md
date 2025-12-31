@@ -1,9 +1,12 @@
-<!-- PROFILE README: Amir0234-afk -->
+<!-- PROFILE README: Amir0234-afk (v2 - stable, low-dependency) -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Amir%20Ali%20Hosseini%20Abrishami&fontSize=46&fontAlignY=38&desc=Cybersecurity%20%7C%20Applied%20ML%20(NLP%2FCV)%20%7C%20Game%20Dev&descAlignY=60&color=gradient)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=720&lines=Cybersecurity+student+%7C+crypto-adjacent+tooling;Applied+ML%3A+Transformers+(NLP)+%E2%80%A2+U-Net+(CV);Game+prototyping%3A+Unreal+Engine+%E2%80%A2+Godot;Building+reproducible%2C+well-documented+projects" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=720&lines=Cybersecurity+student+%7C+crypto-adjacent+tooling;Applied+ML%3A+Transformers+(NLP)+%E2%80%A2+U-Net+(CV);Game+prototyping%3A+Unreal+Engine+%E2%80%A2+Godot;Building+reproducible%2C+well-documented+projects"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -17,24 +20,29 @@
 - Security: small utilities + crypto-adjacent scripts
 - Game dev: prototypes + tooling, packaged demos and short postmortems
 
-## Stack
+## Pinned projects (start here)
+- **sentiment-analysis-hf** — BERT/Transformers sentiment analysis (IMDB, SST-2): train/eval/batch predict
+- **license-plate-segmentation-unet** — U-Net 3-class segmentation (TF/Keras)
+- **CNN-Experiments-on-NIST-SD19-Handwritten-Characters** — modular CNN pipeline (NIST SD19): preprocess → train → evaluate
+- **Base-FlappyBirdClone-UnrealEngine-5.1.1** — Unreal Engine Blueprint prototype base
+
+> Tip: keep your GitHub “Pinned repositories” aligned with this list (4–6 strong projects). :contentReference[oaicite:2]{index=2}
+
+## Stack (robust text)
+- **Languages:** Python, C++, TypeScript, SQL, Bash
+- **ML:** TensorFlow/Keras, Hugging Face Transformers
+- **Infra:** Docker, GitHub Actions, PostgreSQL
+- **Security/RE (tools I use):** (add the exact tools you’re comfortable being judged on)
+
+<!-- Optional: icons (external). If skillicons ever fails, delete this block and keep the text above. -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,postgres,bash,linux,git,githubactions,docker,tensorflow&perline=11" />
 </p>
 
-## GitHub signals
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amir0234-afk&theme=transparent" />
-</p>
+## Proof (recommended next)
+Add one screenshot/GIF per pinned repo under `assets/` and link it here:
+- Example: `![demo](assets/license-plate-unet.png)`
 
-<details>
-  <summary><b>More visuals</b></summary>
-  <br/>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir0234-afk&hide_border=true" />
-  </p>
-
-</details>
+(Images can be stored in the repo and referenced by relative path.) :contentReference[oaicite:3]{index=3}
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient)
