@@ -70,7 +70,7 @@
 
   <!-- Snake (requires the workflow below) -->
   <p align="center">
-    <img src="https://github.com/Amir0234-afk/Amir0234-afk/blob/output/github-snake.svg" alt="snake" />
+    <img src="https://raw.githubusercontent.com/Amir0234-afk/Amir0234-afk/output/github-snake.svg" alt="snake" />
   </p>
 </details>
 
