@@ -42,7 +42,7 @@
 
 ### Sentiment Analysis — Transformers (NLP)
 <p align="center">
-  <img src="assets/nlp-training-metrics.png" width="720" alt="Sentiment training metrics">
+  <img src="assets/nlp-training-metrics.png" width="360" alt="Sentiment training metrics">
 </p>
 
 - **Accuracy:** 93.0% | **F1:** 0.93 | **Eval set:** 872 samples  
@@ -53,7 +53,7 @@
 
 ### License Plate Segmentation — U-Net (CV)
 <p align="center">
-  <img src="assets/cv-unet-segmentation.png" width="720" alt="U-Net segmentation output">
+  <img src="assets/cv-unet-segmentation.png" width="360" alt="U-Net segmentation output">
 </p>
 
 - **Final metrics (50 epochs):**  
@@ -65,7 +65,7 @@
 
 ### Handwritten Character Classification — CNN
 <p align="center">
-  <img src="assets/cnn-confusion-matrix.png" width="720" alt="CNN confusion matrix">
+  <img src="assets/cnn-confusion-matrix.png" width="360" alt="CNN confusion matrix">
 </p>
 
 - **Test Accuracy:** 0.7835  
