@@ -25,6 +25,25 @@
 - **license-plate-segmentation-unet** — U-Net 3-class segmentation (TF/Keras)
 - **CNN-Experiments-on-NIST-SD19-Handwritten-Characters** — modular CNN pipeline (NIST SD19): preprocess → train → evaluate
 - **Base-FlappyBirdClone-UnrealEngine-5.1.1** — Unreal Engine Blueprint prototype base
+## Selected projects (click to explore)
+
+<p align="center">
+  <a href="https://github.com/Amir0234-afk/sentiment-analysis-hf">
+    <img src="assets/nlp-training-metrics.png" width="360" alt="Sentiment analysis — Transformers" />
+  </a>
+  <a href="https://github.com/Amir0234-afk/license-plate-segmentation-unet">
+    <img src="assets/cv-unet-segmentation.png" width="360" alt="U-Net license plate segmentation" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Amir0234-afk/CNN-Experiments-on-NIST-SD19-Handwritten-Characters">
+    <img src="assets/cnn-confusion-matrix.png" width="360" alt="CNN handwritten character classification" />
+  </a>
+  <a href="https://github.com/Amir0234-afk/Base-FlappyBirdClone-UnrealEngine-5.1.1">
+    <img src="assets/flappybird-demo.png" width="360" alt="Unreal Engine Flappy Bird prototype" />
+  </a>
+</p>
 
 ## Stack 
 - **Languages:** Python, C++, TypeScript, SQL, Bash
