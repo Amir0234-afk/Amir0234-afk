@@ -1,6 +1,6 @@
 <!-- PROFILE README: Amir0234-afk -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Amir%20Ali%20Hosseini&fontSize=46&fontAlignY=38&desc=Cybersecurity%20%7C%20Applied%20ML%20(NLP%2FCV)%20%7C%20Game%20Dev&descAlignY=60&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Amir%20Ali%20Hosseini%20Abrishami&fontSize=46&fontAlignY=38&desc=Cybersecurity%20%7C%20Applied%20ML%20(NLP%2FCV)%20%7C%20Game%20Dev&descAlignY=60&color=gradient)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=720&lines=Cybersecurity+student+%7C+crypto-adjacent+tooling;Applied+ML%3A+Transformers+(NLP)+%E2%80%A2+U-Net+(CV);Game+prototyping%3A+Unreal+Engine+%E2%80%A2+Godot;Building+reproducible%2C+well-documented+projects" alt="Typing SVG" />
@@ -52,7 +52,6 @@
 
 ## GitHub signals
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir0234-afk&show_icons=true&include_all_commits=true&theme=transparent" />
   <img src="https://streak-stats.demolab.com?user=Amir0234-afk&theme=transparent" />
 </p>
 
@@ -61,17 +60,9 @@
   <br/>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amir0234-afk&theme=onedark&no-frame=true&row=1&column=6" />
-  </p>
-
-  <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir0234-afk&hide_border=true" />
   </p>
 
-  <!-- Snake (requires the workflow below) -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Amir0234-afk/Amir0234-afk/output/github-snake.svg" alt="snake" />
-  </p>
 </details>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient)
