@@ -1,29 +1,48 @@
-# Welcome to My GitHub 👋
+# Amir Ali (Amir0234-afk)
+Cybersecurity student focused on building practical systems across security + software engineering, with side projects in game development.
 
-Hello there! I'm a tech enthusiast with a passion for gaming, cybersecurity, database systems, and cryptography. This GitHub page is a collection of my projects, explorations, and academic pursuits.
-
----
-
-## 🌟 Current Highlights
-### 🎮 Game Development
-I have a growing interest in game development and enjoy experimenting with tools like **Unreal Engine** and **Godot** to bring creative ideas to life. Stay tuned for prototypes and projects as I delve deeper into the world of interactive experiences!
+- **Primary interests:** DevSecOps, applied cryptography, secure systems, reverse engineering
+- **Also exploring:** game development (Unreal Engine, Godot), data/ML fundamentals
+- **Open to:** internships, collaborations, and security/game-dev adjacent projects
 
 ---
 
-### 📚 Academic Pursuits
-I am a cybersecurity student with a keen interest in blockchains and their applications in secure systems.
+## Featured Projects (start here)
+> Pinned on my profile for quick access. (Each repo has its own README with setup + usage.)
+
+- **XOR-Decryption-Tool**
+  - Python utility for XOR decryption with known-plaintext hints
+  - Focus: byte-level reasoning, encoding pitfalls, practical crypto scripting
+
+- **Base-FlappyBirdClone-UnrealEngine-5.1.1**
+  - Unreal Engine Blueprint base project (gameplay prototype foundation)
+  - Focus: rapid prototyping, iteration loops, engine fundamentals
+
+- **angular-crud-app**
+  - Angular/TypeScript CRUD application
+  - Focus: frontend structure, common app patterns, maintainability
+
+- **Home-Price-Prediction-using-Linear-Regression**
+  - Linear regression baseline with evaluation/visualization
+  - Focus: ML fundamentals, metrics, feature effects
+
+(If you don’t see these pinned yet: Profile → “Customize your pins” → select up to 6.)
 
 ---
 
-## 🔧 Tools and Technologies
-- **Programming Languages:** Python, C++, GDScript, SQL, Bash  
-- **Game Engines:** Unreal Engine, Godot  
-- **Security Tools:** Wireshark, Ghidra, Pycryptodome, Kali Linux  
+## Current Focus
+- Strengthening **security engineering foundations** (networking, RE tooling, crypto basics)
+- Shipping **small but complete projects** (clear scope, reproducible runs, clean READMEs)
 
 ---
 
-## 📫 Connect With Me
+## Tech Stack (practical)
+- **Languages:** Python, C++, SQL, Bash, TypeScript, GDScript
+- **Security / RE:** Wireshark, Ghidra, Kali Linux, PyCryptodome
+- **Game dev:** Unreal Engine, Godot
+
+---
+
+## Contact
 - **LinkedIn:** https://www.linkedin.com/in/amirali-hosseini-abrishami/
-- Feel free to reach out if you're interested in collaborations or discussions about game development, cybersecurity, or data science!
-
-Let’s create, explore, and learn together! 🚀
+- If you message me, include: context + what you’re trying to build + expected timeline.
