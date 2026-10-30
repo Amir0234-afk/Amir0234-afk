@@ -5,10 +5,6 @@
 <p align="center">
   <img src="assets/typing.svg" alt="Building nomem, verifiable AI, local-first tools, M.Sc. Cybersecurity, applied ML and game dev">
 </p>
-# Yamato
-
-Building local-first AI tooling under **No One's Studio**. M.Sc. Cybersecurity.
-Interests: verifiable AI, agent memory, applied ML, security.
 
 [LinkedIn](https://www.linkedin.com/in/amirali-hosseini-abrishami/) ·
 [no0nestudio.com](https://no0nestudio.com) ·
