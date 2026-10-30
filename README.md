@@ -3,10 +3,8 @@
 Building local-first AI tooling under **No One's Studio**. M.Sc. Cybersecurity.
 Interests: verifiable AI, agent memory, applied ML, security.
 
+[LinkedIn](https://www.linkedin.com/in/amirali-hosseini-abrishami/) ·
 [no0nestudio.com](https://no0nestudio.com) ·
-[YouTube](https://youtube.com/@Yamato0234) ·
-[Twitch](https://twitch.tv/yamato0234) ·
-[X](https://x.com/Yamatoo234) ·
 [dev.to](https://dev.to/yamato0234) ·
 [Portfolio](https://amir0234-afk.github.io)
 
