@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Yamato · No One's Studio">
+</p>
+
+<p align="center">
+  <img src="assets/typing.svg" alt="Building nomem, verifiable AI, local-first tools, M.Sc. Cybersecurity, applied ML and game dev">
+</p>
 # Yamato
 
 Building local-first AI tooling under **No One's Studio**. M.Sc. Cybersecurity.
@@ -32,3 +39,6 @@ Interests: verifiable AI, agent memory, applied ML, security.
 - **Infra:** Docker, GitHub Actions, Linux
 - **Security:** Wireshark, Ghidra, applied cryptography (COSE, Ed25519, RFC 3161)
 - **Games:** Godot, Unreal Engine
+<p align="center">
+  <img src="assets/skills.svg" alt="Python, TypeScript, C++, PostgreSQL, Neo4j, FastAPI, Docker, Linux, Git, GitHub Actions, PyTorch, TensorFlow">
+</p>
